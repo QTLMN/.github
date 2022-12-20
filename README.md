@@ -1,3 +1,3 @@
 # Lemon Go
 
-## Lemon Go - Inteligência de Negócios
+Lemon Go - Inteligência de Negócios
